@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x77Bb947c4292EC02eEF109D33EB58463D2476Dd9",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x77bb947c4292ec02eef109d33eb58463d2476dd9",
+  "NETWORK": {
+    "NAME": "Mumbai Matic",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Cool Doge",
+  "SYMBOL": "CDNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cool-doge",
+  "SHOW_BACKGROUND": true
+}
